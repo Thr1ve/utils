@@ -1,6 +1,6 @@
 {
   "name": "@thr1ve/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "various utility functions",
   "main": "src/index.js",
   "scripts": {
