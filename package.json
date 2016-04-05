@@ -1,0 +1,25 @@
+{
+  "name": "@thr1ve/utils",
+  "version": "1.0.0",
+  "description": "various utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thr1ve/utils.git"
+  },
+  "author": "Thr1ve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thr1ve/utils/issues"
+  },
+  "homepage": "https://github.com/Thr1ve/utils#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.0.2",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3"
+  }
+}
