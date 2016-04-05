@@ -2,7 +2,7 @@
   "name": "@thr1ve/utils",
   "version": "1.0.1",
   "description": "various utility functions",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib",
